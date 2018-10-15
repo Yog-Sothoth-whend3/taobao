@@ -1,0 +1,2 @@
+# taobao
+get commodity info
